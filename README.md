@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @codfishy
-- 👀 I’m interested in frontend dev
-- 🌱 I’m currently learning ...something i dont know;] 
-- 💞️ I’m looking to collaborate on any design and dev projects
-- 📫 How to reach me : codfish379@gmail.com
+- 🌱 Learning is a constant for me.
+- 💞️ Exploring is my nature.
+- 📫 AI, Electronics, no idea... the list keeps going.
 
 <!---
 codfishy/codfishy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
