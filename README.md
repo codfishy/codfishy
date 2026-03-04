@@ -1,6 +1,6 @@
 - 🌱 Learning is a constant for me.
 - 💞️ Exploring is my nature.
-- 📫 AI, Electronics, no idea... the list keeps going.
+- 📫 AI, Electronics, Cyber,  no idea... the list keeps going.
 
 <!---
 codfishy/codfishy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
